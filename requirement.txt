@@ -1,13 +1,2 @@
-blinker
-click
-colorama
 Flask
-iniconfig
-itsdangerous
-Jinja2
-MarkupSafe
-packaging
-pluggy0
 pytest
-Werkzeug
-
