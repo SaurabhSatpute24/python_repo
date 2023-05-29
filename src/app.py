@@ -12,6 +12,9 @@ def login():
             return 'Login Successful!'
         else:
             return 'Login Failed!'
+    # asd= render_template('home.html')
+    # print(asd)
+
     return render_template('home.html')
 
 if __name__ == '__main__':

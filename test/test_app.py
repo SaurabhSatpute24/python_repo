@@ -1,4 +1,4 @@
 from app import login
 
 def test_login():
-    assert login()=="'Login Failed!'" 
+    assert login().__contains__('<!DOCTYPE html')
