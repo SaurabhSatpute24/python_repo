@@ -1,4 +1,4 @@
-from app import index
+from app import login
 
-def test_index():
-    assert index()=="PiByThree Website"
+def test_login():
+    assert login()=="Login Successful!"
