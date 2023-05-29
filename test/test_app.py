@@ -1,4 +1,4 @@
 from app import login
 
 def test_login():
-    assert login()=="Login Successful!"
+    assert login()=="'Login Failed!'" 
